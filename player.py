@@ -3,6 +3,7 @@ class Player:
         self.name = ""
 
     def play_hand(self):
+        #Player displays their selected gesture
         pass
 
     def enter_name(self):
