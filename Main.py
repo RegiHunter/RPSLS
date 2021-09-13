@@ -1,3 +1,3 @@
 class Main:
     def __init__(self):
-        pass
+        print("Welcome to RPSLS! *.. cont. to rule display*")
